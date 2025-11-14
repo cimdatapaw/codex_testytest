@@ -1,0 +1,10 @@
+Meow Meow Creative Commons, for non-commercial use.
+
+This project is provided under the "Meow Meow Creative Commons" license.
+You are free to view, use, modify, and share this code for personal and
+non-commercial purposes, provided that:
+ - You give appropriate credit to the original author(s).
+ - You indicate if changes were made.
+ - You do not use the material for commercial purposes.
+For any commercial usage, explicit written permission from the original
+author(s) is required.
